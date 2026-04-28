@@ -55,7 +55,7 @@ int main()
     printf("enter array  %d elements are: \n",n);
     for(int i=0;i<n;i++)
     {
-       printf("Element[%d]: ", i + 1);
+            printf("Element[%d]: ", i + 1);
         scanf("%d", (arr1 + i));
 
     }
